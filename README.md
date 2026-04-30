@@ -1,5 +1,9 @@
 <div align="center">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Mohamed%20Medhat%20Fadl&fontSize=50&animation=fadeIn&desc=Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descSize=20&descAlignY=75" alt="Header Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Mohamed%20Medhat%20Fadl&fontSize=50&animation=fadeIn&desc=Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descSize=20&descAlignY=75">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Mohamed%20Medhat%20Fadl&fontSize=50&animation=fadeIn&desc=Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descSize=20&descAlignY=75">
+    <img style="width: 100%;" alt="Header Banner" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Mohamed%20Medhat%20Fadl&fontSize=50&animation=fadeIn&desc=Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descSize=20&descAlignY=75">
+  </picture>
 </div>
 
 <br>
