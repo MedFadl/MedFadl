@@ -51,11 +51,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,dart,spring,django,flutter,mysql,postgres,docker,git,github,postman&perline=6&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,dart,spring,django,flutter,mysql,postgres,docker,git,github,postman&perline=6&theme=light">
-      <img src="https://skillicons.dev/icons?i=java,python,dart,spring,django,flutter,mysql,postgres,docker,git,github,postman&perline=6&theme=dark" alt="Tech Stack" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=java,py,dart,spring,django,flutter,mysql,postgres,docker,git,github,postman&perline=6&theme=dark#gh-dark-mode-only" alt="Tech Stack" />
   </a>
 </div>
 <br>
