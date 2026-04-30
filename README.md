@@ -4,25 +4,24 @@
 
 <br>
 
-<div align="center">
-  <img src="https://count.getloli.com/@:MedFadl?theme=3d-num&padding=7&scale=1&align=center&pixelated=1&darkmode=0"  />
-</div>
+
 
 
 <br>
 
 <div align="center">
-  <!-- Upgraded green to 39D353 to fix the thin-text dimness -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);Mainly+Backend,+leveling+up+to+Full-Stack;Building+scalable+APIs+%26+Systems;Crafting+smooth+mobile+interfaces" alt="Typing Animation" />
 </div>
 
 <div align="center">
+  <img src="https://count.getloli.com/@:MedFadl?theme=3d-num&padding=7&scale=1&align=center&pixelated=1&darkmode=0"  />
+</div>
+
+<div align="center">
   <a href="https://linkedin.com/in/MohamedMedhatFadl" target="_blank">
-    <!-- Kept 238636 for solid backgrounds to match the exact commit button -->
     <img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/MohamedMedhatFadl" target="_blank">
-    <!-- Kept 238636 for solid backgrounds to match the exact commit button -->
     <img src="https://img.shields.io/badge/Facebook-238636?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
@@ -56,7 +55,6 @@
 ### <div align="center">GitHub Telemetry</div>
 
 <div align="center">
-  <!-- Upgraded text/icons/borders to 39D353 to make them pop brightly against the dark mode background -->
   <img src="https://github-readme-stats.vercel.app/api?username=MedFadl&show_icons=true&count_private=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=39D353&border_color=30363D&hide_border=false" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MedFadl&layout=compact&langs_count=5&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_color=30363D&hide_border=false" height="165" alt="Top Languages" />
   <br><br>
