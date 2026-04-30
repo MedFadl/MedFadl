@@ -4,9 +4,6 @@
 
 <br>
 
-
-
-
 <br>
 
 <div align="center">
@@ -15,15 +12,6 @@
 
 <div align="center">
   <img src="https://count.getloli.com/@:MedFadl?theme=3d-num&padding=7&scale=1&align=center&pixelated=1&darkmode=0"  />
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/MohamedMedhatFadl" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/MohamedMedhatFadl" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-238636?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
 </div>
 
 <br>
@@ -38,6 +26,17 @@
   Working primarily with <b>Java, Python, and Dart</b>.<br>
   I prefer writing clean, maintainable code over complex workarounds.<br>
   Usually listening to music while pushing commits.
+</div>
+
+<br> 
+
+<div align="center">
+  <a href="https://linkedin.com/in/MohamedMedhatFadl" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/MohamedMedhatFadl" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-238636?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </div>
 
 <br>
