@@ -58,7 +58,6 @@
     </picture>
   </a>
 </div>
-
 <br>
 
 ### <div align="center">GitHub Telemetry</div>
