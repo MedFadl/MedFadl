@@ -5,9 +5,9 @@
 <br>
 
 <div align="center">
-  <!-- Changed theme from 3d-num to green to eliminate the dark, muddy borders -->
-  <img src="https://count.getloli.com/@:MedFadl?theme=green&padding=7&scale=1&align=center&pixelated=1&darkmode=auto" alt="Profile Views Counter" />
+  <img src="https://count.getloli.com/@:MedFadl?theme=3d-num&padding=7&scale=1&align=center&pixelated=1&darkmode=0"  />
 </div>
+
 
 <br>
 
