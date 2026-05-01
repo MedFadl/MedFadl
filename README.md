@@ -6,7 +6,6 @@
   </picture>
 </div>
 
-<br>
 
 <div align="center">
   <picture>
@@ -16,11 +15,12 @@
   </picture>
 </div>
 
+<hr style="border-color: #30363D;" />
+
 <div align="center">
   <img src="https://count.getloli.com/@:MedFadl?theme=3d-num&padding=7&scale=1&align=center&pixelated=1&darkmode=0" alt="Profile Views" />
 </div>
-
-<br>
+<hr style="border-color: #30363D;" />
 
 ### <div align="center">About Me</div>
 
@@ -66,7 +66,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MedFadl&show_icons=true&count_private=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=39D353&border_color=30363D&hide_border=false" alt="GitHub Stats" />
   </picture>
   
-  <br><br>
+  <br>
 
   <!-- Top Languages -->
   <picture>
@@ -75,8 +75,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MedFadl&layout=compact&langs_count=5&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_color=30363D&hide_border=false" alt="Top Languages" />
   </picture>
 
-  <br><br>
-
+  <br>
   <!-- GitHub Streak -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MedFadl&mode=daily&background=0D1117&ring=39D353&fire=39D353&currStreakNum=C9D1D9&currStreakLabel=39D353&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&border=30363D">
@@ -84,15 +83,6 @@
     <img src="https://streak-stats.demolab.com?user=MedFadl&mode=daily&background=0D1117&ring=39D353&fire=39D353&currStreakNum=C9D1D9&currStreakLabel=39D353&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&border=30363D" alt="GitHub Streak" />
   </picture>
 
-  <br><br>
-
-  <!-- Trophies -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app?username=MedFadl&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&title=39D353&text=C9D1D9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app?username=MedFadl&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&title=238636&text=24292f">
-    <img src="https://github-profile-trophy.vercel.app?username=MedFadl&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&title=39D353&text=C9D1D9" alt="Trophies" />
-  </picture>
-</div>
 
 <br>
 
