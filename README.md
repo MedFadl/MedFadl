@@ -56,36 +56,44 @@
 </div>
 <br>
 
-### <div align="center">GitHub Telemetry</div>
+<div align="center">
 
-  <!-- Top Languages -->
+### GitHub Telemetry
+
+---
+
+<!-- Top Languages -->
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MedFadl&layout=compact&langs_count=5&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_color=30363D&hide_border=false">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MedFadl&layout=compact&langs_count=5&bg_color=ffffff&title_color=238636&text_color=24292f&border_color=d0d7de&hide_border=false">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MedFadl&layout=compact&langs_count=5&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_color=30363D&hide_border=false" alt="Top Languages" />
   </picture>
+</p>
 
-  <br>
-  <!-- GitHub Streak -->
+<br>
+
+<!-- GitHub Streak -->
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MedFadl&mode=daily&background=0D1117&ring=39D353&fire=39D353&currStreakNum=C9D1D9&currStreakLabel=39D353&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&border=30363D">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MedFadl&mode=daily&background=ffffff&ring=238636&fire=238636&currStreakNum=24292f&currStreakLabel=238636&sideNums=24292f&sideLabels=24292f&dates=24292f&border=d0d7de">
     <img src="https://streak-stats.demolab.com?user=MedFadl&mode=daily&background=0D1117&ring=39D353&fire=39D353&currStreakNum=C9D1D9&currStreakLabel=39D353&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&border=30363D" alt="GitHub Streak" />
   </picture>
-
+</p>
 
 <br>
 
-<div align="center">
-  <!-- Activity Graph -->
+<!-- Activity Graph -->
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MedFadl&radius=8&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&title_color=39D353&area=true&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MedFadl&radius=8&bg_color=ffffff&color=238636&line=238636&point=24292f&title_color=238636&area=true&hide_border=true">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MedFadl&radius=8&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&title_color=39D353&area=true&hide_border=true" alt="Activity Graph" />
   </picture>
-</div>
+</p>
 
-<br>
+</div>
 
 ### <div align="center">Currently Listening To & Current Vibe</div>
 
