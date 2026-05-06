@@ -58,16 +58,6 @@
 
 ### <div align="center">GitHub Telemetry</div>
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MedFadl&show_icons=true&count_private=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=39D353&border_color=30363D&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MedFadl&show_icons=true&count_private=true&bg_color=ffffff&title_color=238636&text_color=24292f&icon_color=238636&border_color=d0d7de&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api?username=MedFadl&show_icons=true&count_private=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=39D353&border_color=30363D&hide_border=false" alt="GitHub Stats" />
-  </picture>
-  
-  <br>
-
   <!-- Top Languages -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MedFadl&layout=compact&langs_count=5&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_color=30363D&hide_border=false">
