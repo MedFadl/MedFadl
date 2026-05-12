@@ -16,25 +16,22 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Use an action specifically for trophies
       - name: generate trophies.svg
         uses: ryo-ma/github-profile-trophy@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: dark # Trophies generally have specific themes
-          column: 3 # Match your layout
-          no-bg: true # Make it transparent
-          no-border: true
-          margin-w: 15
+          theme: darkhub # Sleek, dark, and matches your other stats
+          column: 7 # Forces up to 7 trophies into a single row
+          no-bg: true # Keeps it transparent
+          no-frame: true # Removes the individual trophy boxes completely
+          margin-w: 15 # Compresses the spacing slightly
           margin-h: 15
 
-      # Move the generated file to a dist folder
       - name: move and prepare output
         run: |
           mkdir -p dist
           mv trophies.svg dist/trophies.svg
 
-      # Push the trophies SVG to a new output branch
       - name: push trophies to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
