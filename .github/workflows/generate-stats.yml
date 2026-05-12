@@ -16,21 +16,21 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Generate Dark Theme Stats
+      # Generate Dark Theme Stats - with Border and BG Removed
       - name: generate stats-dark.svg
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false
+          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&hide_bg=true&border_radius=0
           path: dist/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Generate Light Theme Stats
+      # Generate Light Theme Stats - Border Removal only
       - name: generate stats-light.svg
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false
+          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true
           path: dist/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
