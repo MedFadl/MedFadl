@@ -8,9 +8,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=39D353&center=true&vCenter=true&width=400&lines=System.out.println(%22Hello+World%22);Mainly+Backend,+leveling+up+to+Full-Stack;Building+scalable+APIs+%26+Systems;Crafting+smooth+mobile+interfaces">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=238636&center=true&vCenter=true&width=400&lines=System.out.println(%22Hello+World%22);Mainly+Backend,+leveling+up+to+Full-Stack;Building+scalable+APIs+%26+Systems;Crafting+smooth+mobile+interfaces">
-    <img alt="Typing Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=39D353&center=true&vCenter=true&width=400&lines=System.out.println(%22Hello+World%22);Mainly+Backend,+leveling+up+to+Full-Stack;Building+scalable+APIs+%26+Systems;Crafting+smooth+mobile+interfaces" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58a6ff&center=true&vCenter=true&width=400&lines=System.out.println(%22Hello+World%22);Mainly+Backend,+leveling+up+to+Full-Stack;Building+scalable+APIs+%26+Systems;Crafting+smooth+mobile+interfaces">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0969da&center=true&vCenter=true&width=400&lines=System.out.println(%22Hello+World%22);Mainly+Backend,+leveling+up+to+Full-Stack;Building+scalable+APIs+%26+Systems;Crafting+smooth+mobile+interfaces">
+    <img alt="Typing Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58a6ff&center=true&vCenter=true&width=400&lines=System.out.println(%22Hello+World%22);Mainly+Backend,+leveling+up+to+Full-Stack;Building+scalable+APIs+%26+Systems;Crafting+smooth+mobile+interfaces" />
   </picture>
 </div>
 
@@ -38,14 +38,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=39D353&center=true&vCenter=true&width=300&lines=Let's+Connect!;Drop+a+message!&cursor=%20">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=238636&center=true&vCenter=true&width=300&lines=Let's+Connect!;Drop+a+message!&cursor=%20">
-    <img alt="Let's Connect" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=39D353&center=true&vCenter=true&width=300&lines=Let's+Connect!;Drop+a+message!&cursor=%20" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=58a6ff&center=true&vCenter=true&width=300&lines=Let's+Connect!;Drop+a+message!&cursor=%20">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=0969da&center=true&vCenter=true&width=300&lines=Let's+Connect!;Drop+a+message!&cursor=%20">
+    <img alt="Let's Connect" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=58a6ff&center=true&vCenter=true&width=300&lines=Let's+Connect!;Drop+a+message!&cursor=%20" />
   </picture>
   <br>
-  <a href="https://linkedin.com/in/MohamedMedhatFadl" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=39D353&center=true&vCenter=true&width=150&height=35&lines=[+LinkedIn+];[+Connect+Now+]&cursor=%20"><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=238636&center=true&vCenter=true&width=150&height=35&lines=[+LinkedIn+];[+Connect+Now+]&cursor=%20"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=39D353&center=true&vCenter=true&width=150&height=35&lines=[+LinkedIn+];[+Connect+Now+]&cursor=%20" alt="LinkedIn" /></picture></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/MohamedMedhatFadl" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=39D353&center=true&vCenter=true&width=150&height=35&lines=[+Facebook+];[+Message+Me+]&cursor=%20"><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=238636&center=true&vCenter=true&width=150&height=35&lines=[+Facebook+];[+Message+Me+]&cursor=%20"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=39D353&center=true&vCenter=true&width=150&height=35&lines=[+Facebook+];[+Message+Me+]&cursor=%20" alt="Facebook" /></picture></a>
+  <a href="https://linkedin.com/in/MohamedMedhatFadl" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=58a6ff&center=true&vCenter=true&width=150&height=35&lines=[+LinkedIn+];[+Connect+Now+]&cursor=%20"><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=0969da&center=true&vCenter=true&width=150&height=35&lines=[+LinkedIn+];[+Connect+Now+]&cursor=%20"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=58a6ff&center=true&vCenter=true&width=150&height=35&lines=[+LinkedIn+];[+Connect+Now+]&cursor=%20" alt="LinkedIn" /></picture></a>
+    
+  <a href="https://www.facebook.com/MohamedMedhatFadl" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=58a6ff&center=true&vCenter=true&width=150&height=35&lines=[+Facebook+];[+Message+Me+]&cursor=%20"><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=0969da&center=true&vCenter=true&width=150&height=35&lines=[+Facebook+];[+Message+Me+]&cursor=%20"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=58a6ff&center=true&vCenter=true&width=150&height=35&lines=[+Facebook+];[+Message+Me+]&cursor=%20" alt="Facebook" /></picture></a>
 </div>
 
 ### <div align="center">Tech Stack</div>
@@ -73,11 +73,27 @@
 
 <br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MedFadl&show_icons=true&bg_color=0D1117&title_color=58a6ff&text_color=C9D1D9&icon_color=58a6ff&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MedFadl&show_icons=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&hide_border=true">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=MedFadl&show_icons=true&bg_color=0D1117&title_color=58a6ff&text_color=C9D1D9&icon_color=58a6ff&hide_border=true" alt="GitHub Stats" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedFadl&layout=compact&bg_color=0D1117&title_color=58a6ff&text_color=C9D1D9&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedFadl&layout=compact&bg_color=ffffff&title_color=0969da&text_color=24292f&hide_border=true">
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedFadl&layout=compact&bg_color=0D1117&title_color=58a6ff&text_color=C9D1D9&hide_border=true" alt="Top Languages" />
+  </picture>
+</div>
+
+<br>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-light.svg">
-    <img src="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-dark.svg" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MedFadl&mode=daily&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakNum=C9D1D9&currStreakLabel=58a6ff&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MedFadl&mode=daily&background=ffffff&ring=0969da&fire=0969da&currStreakNum=24292f&currStreakLabel=0969da&sideNums=24292f&sideLabels=24292f&dates=24292f&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=MedFadl&mode=daily&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakNum=C9D1D9&currStreakLabel=58a6ff&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
   </picture>
 </p>
 
@@ -85,29 +101,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/languages-output/languages-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/languages-output/languages-light.svg">
-    <img src="https://raw.githubusercontent.com/MedFadl/MedFadl/languages-output/languages-dark.svg" alt="Top Languages" />
-  </picture>
-</p>
-
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MedFadl&mode=daily&background=0D1117&ring=39D353&fire=39D353&currStreakNum=C9D1D9&currStreakLabel=39D353&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MedFadl&mode=daily&background=ffffff&ring=238636&fire=238636&currStreakNum=24292f&currStreakLabel=238636&sideNums=24292f&sideLabels=24292f&dates=24292f&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=MedFadl&mode=daily&background=0D1117&ring=39D353&fire=39D353&currStreakNum=C9D1D9&currStreakLabel=39D353&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
-  </picture>
-</p>
-
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MedFadl&radius=8&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&title_color=39D353&area=true&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MedFadl&radius=8&bg_color=ffffff&color=238636&line=238636&point=24292f&title_color=238636&area=true&hide_border=true">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MedFadl&radius=8&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&title_color=39D353&area=true&hide_border=true" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MedFadl&radius=8&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&title_color=58a6ff&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MedFadl&radius=8&bg_color=ffffff&color=0969da&line=0969da&point=24292f&title_color=0969da&area=true&hide_border=true">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MedFadl&radius=8&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&title_color=58a6ff&area=true&hide_border=true" alt="Activity Graph" />
   </picture>
 </p>
 
@@ -128,8 +124,8 @@
 <hr style="border-color: #30363D;" />
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=3000&color=39D353&center=true&vCenter=true&width=350&lines=System.exit(0);+%2F%2F+Thanks+for+visiting!">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=3000&color=238636&center=true&vCenter=true&width=350&lines=System.exit(0);+%2F%2F+Thanks+for+visiting!">
-    <img alt="Footer Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=3000&color=39D353&center=true&vCenter=true&width=350&lines=System.exit(0);+%2F%2F+Thanks+for+visiting!" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=3000&color=58a6ff&center=true&vCenter=true&width=350&lines=System.exit(0);+%2F%2F+Thanks+for+visiting!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=3000&color=0969da&center=true&vCenter=true&width=350&lines=System.exit(0);+%2F%2F+Thanks+for+visiting!">
+    <img alt="Footer Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=3000&color=58a6ff&center=true&vCenter=true&width=350&lines=System.exit(0);+%2F%2F+Thanks+for+visiting!" />
   </picture>
 </div>
