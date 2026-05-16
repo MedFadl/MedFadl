@@ -16,23 +16,21 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Generate Dark Theme Languages - Transparent and Borderless
+      # Generate Dark Theme Languages - Custom Blue Theme
       - name: generate languages-dark.svg
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          no-bg: true # 
           card: top-langs
-          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&border_radius=0&hide_bg=true&transparent=true&custom_title=Most%20Used%20Languages
+          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&hide_border=true&custom_title=Most%20Used%20Languages&bg_color=0D1117&title_color=58a6ff&text_color=C9D1D9
           path: dist/languages-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Generate Light Theme Languages - Just Borderless
+      # Generate Light Theme Languages - Custom Blue Theme
       - name: generate languages-light.svg
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          no-bg: true # 
           card: top-langs
-          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=default&hide_border=true&custom_title=Most%20Used%20Languages
+          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&hide_border=true&custom_title=Most%20Used%20Languages&bg_color=ffffff&title_color=0969da&text_color=24292f
           path: dist/languages-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
