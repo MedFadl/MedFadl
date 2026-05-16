@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Mohamed%20Medhat%20Fadl&fontSize=40&animation=fadeIn&desc=Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descSize=18&descAlignY=75">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Mohamed%20Medhat%20Fadl&fontSize=40&animation=fadeIn&desc=Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descSize=18&descAlignY=75">
-    <img width="100%" alt="Header Banner" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Mohamed%20Medhat%20Fadl&fontSize=40&animation=fadeIn&desc=Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descSize=18&descAlignY=75">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Mohamed%20Medhat%20Fadl&fontSize=40&desc=Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descSize=18&descAlignY=75">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Mohamed%20Medhat%20Fadl&fontSize=40&desc=Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descSize=18&descAlignY=75">
+    <img width="100%" alt="Header Banner" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Mohamed%20Medhat%20Fadl&fontSize=40&desc=Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descSize=18&descAlignY=75">
   </picture>
 </div>
 
@@ -36,17 +36,19 @@
 
 <br> 
 
+### <div align="center">Let's Connect!</div>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=58a6ff&center=true&vCenter=true&width=300&lines=Let's+Connect!;Drop+a+message!&cursor=%20">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=0969da&center=true&vCenter=true&width=300&lines=Let's+Connect!;Drop+a+message!&cursor=%20">
-    <img alt="Let's Connect" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=58a6ff&center=true&vCenter=true&width=300&lines=Let's+Connect!;Drop+a+message!&cursor=%20" />
-  </picture>
-  <br>
-  <a href="https://linkedin.com/in/MohamedMedhatFadl" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=58a6ff&center=true&vCenter=true&width=150&height=35&lines=[+LinkedIn+];[+Connect+Now+]&cursor=%20"><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=0969da&center=true&vCenter=true&width=150&height=35&lines=[+LinkedIn+];[+Connect+Now+]&cursor=%20"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=58a6ff&center=true&vCenter=true&width=150&height=35&lines=[+LinkedIn+];[+Connect+Now+]&cursor=%20" alt="LinkedIn" /></picture></a>
-    
-  <a href="https://www.facebook.com/MohamedMedhatFadl" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=58a6ff&center=true&vCenter=true&width=150&height=35&lines=[+Facebook+];[+Message+Me+]&cursor=%20"><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=0969da&center=true&vCenter=true&width=150&height=35&lines=[+Facebook+];[+Message+Me+]&cursor=%20"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=2000&color=58a6ff&center=true&vCenter=true&width=150&height=35&lines=[+Facebook+];[+Message+Me+]&cursor=%20" alt="Facebook" /></picture></a>
+  <a href="https://linkedin.com/in/MohamedMedhatFadl" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+    
+  <a href="https://www.facebook.com/MohamedMedhatFadl" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </div>
+
+<br>
 
 ### <div align="center">Tech Stack</div>
 
@@ -65,9 +67,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MedFadl&theme=darkhub&no-bg=true&no-frame=true&row=1&column=7&margin-w=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MedFadl&theme=flat&no-bg=true&no-frame=true&row=1&column=7&margin-w=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=MedFadl&theme=darkhub&no-bg=true&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/trophies-output/trophies-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/trophies-output/trophies-light.svg">
+    <img src="https://raw.githubusercontent.com/MedFadl/MedFadl/trophies-output/trophies-dark.svg" alt="GitHub Trophies" />
   </picture>
 </p>
 
@@ -75,15 +77,15 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MedFadl&show_icons=true&bg_color=0D1117&title_color=58a6ff&text_color=C9D1D9&icon_color=58a6ff&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MedFadl&show_icons=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&hide_border=true">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=MedFadl&show_icons=true&bg_color=0D1117&title_color=58a6ff&text_color=C9D1D9&icon_color=58a6ff&hide_border=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-light.svg">
+    <img height="195" src="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-dark.svg" alt="GitHub Stats" />
   </picture>
-  &nbsp;
+   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedFadl&layout=compact&bg_color=0D1117&title_color=58a6ff&text_color=C9D1D9&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedFadl&layout=compact&bg_color=ffffff&title_color=0969da&text_color=24292f&hide_border=true">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedFadl&layout=compact&bg_color=0D1117&title_color=58a6ff&text_color=C9D1D9&hide_border=true" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/languages-output/languages-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/languages-output/languages-light.svg">
+    <img height="195" src="https://raw.githubusercontent.com/MedFadl/MedFadl/languages-output/languages-dark.svg" alt="Top Languages" />
   </picture>
 </div>
 
@@ -123,9 +125,5 @@
 
 <hr style="border-color: #30363D;" />
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=3000&color=58a6ff&center=true&vCenter=true&width=350&lines=System.exit(0);+%2F%2F+Thanks+for+visiting!">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=3000&color=0969da&center=true&vCenter=true&width=350&lines=System.exit(0);+%2F%2F+Thanks+for+visiting!">
-    <img alt="Footer Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=3000&color=58a6ff&center=true&vCenter=true&width=350&lines=System.exit(0);+%2F%2F+Thanks+for+visiting!" />
-  </picture>
+  <code>System.exit(0); // Thanks for visiting!</code>
 </div>
