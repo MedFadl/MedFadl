@@ -21,7 +21,7 @@ jobs:
 
       # Generate Dark Theme Trophies
       - name: Generate trophies-dark.svg
-        uses: ryo-ma/github-profile-trophy@v1
+        uses: ryo-ma/github-profile-trophy@master
         with:
           username: MedFadl
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -37,7 +37,7 @@ jobs:
 
       # Generate Light Theme Trophies
       - name: Generate trophies-light.svg
-        uses: ryo-ma/github-profile-trophy@v1
+        uses: ryo-ma/github-profile-trophy@master
         with:
           username: MedFadl
           token: ${{ secrets.GITHUB_TOKEN }}
