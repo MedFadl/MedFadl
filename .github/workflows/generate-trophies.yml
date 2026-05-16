@@ -16,18 +16,42 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate trophies.svg
+      - name: Create output directory
+        run: mkdir -p dist
+
+      # Generate Dark Theme Trophies
+      - name: Generate trophies-dark.svg
         uses: ryo-ma/github-profile-trophy@v1
         with:
           username: MedFadl
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: darkhub
+          no-bg: true
+          no-frame: true
+          row: 1
+          column: 7
+          margin-w: 15
 
-      - name: Move output
-        run: |
-          mkdir -p dist
-          mv trophy.svg dist/trophy.svg
+      - name: Move dark output
+        run: mv trophy.svg dist/trophies-dark.svg
 
+      # Generate Light Theme Trophies
+      - name: Generate trophies-light.svg
+        uses: ryo-ma/github-profile-trophy@v1
+        with:
+          username: MedFadl
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: flat
+          no-bg: true
+          no-frame: true
+          row: 1
+          column: 7
+          margin-w: 15
+
+      - name: Move light output
+        run: mv trophy.svg dist/trophies-light.svg
+
+      # Push both SVGs to the output branch
       - name: Deploy to trophies-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
