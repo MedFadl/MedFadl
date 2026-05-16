@@ -19,37 +19,13 @@ jobs:
       - name: Create output directory
         run: mkdir -p dist
 
-      # Generate Dark Theme Trophies
-      - name: Generate trophies-dark.svg
-        uses: ryo-ma/github-profile-trophy@master
-        with:
-          username: MedFadl
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: darkhub
-          no-bg: true
-          no-frame: true
-          row: 1
-          column: 7
-          margin-w: 15
+      # Generate Dark Theme Trophies using cURL
+      - name: Fetch dark trophies
+        run: curl "https://github-profile-trophy.vercel.app/?username=MedFadl&theme=darkhub&no-bg=true&no-frame=true&row=1&column=7&margin-w=15" -o dist/trophies-dark.svg
 
-      - name: Move dark output
-        run: mv trophy.svg dist/trophies-dark.svg
-
-      # Generate Light Theme Trophies
-      - name: Generate trophies-light.svg
-        uses: ryo-ma/github-profile-trophy@master
-        with:
-          username: MedFadl
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: flat
-          no-bg: true
-          no-frame: true
-          row: 1
-          column: 7
-          margin-w: 15
-
-      - name: Move light output
-        run: mv trophy.svg dist/trophies-light.svg
+      # Generate Light Theme Trophies using cURL
+      - name: Fetch light trophies
+        run: curl "https://github-profile-trophy.vercel.app/?username=MedFadl&theme=flat&no-bg=true&no-frame=true&row=1&column=7&margin-w=15" -o dist/trophies-light.svg
 
       # Push both SVGs to the output branch
       - name: Deploy to trophies-output branch
