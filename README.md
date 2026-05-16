@@ -39,13 +39,9 @@
 ### <div align="center">Let's Connect!</div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/MohamedMedhatFadl" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-    
-  <a href="https://www.facebook.com/MohamedMedhatFadl" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  <a href="https://linkedin.com/in/MohamedMedhatFadl" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/MohamedMedhatFadl" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/m.mfadl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 <br>
@@ -124,6 +120,11 @@
 <br>
 
 <hr style="border-color: #30363D;" />
+
 <div align="center">
-  <code>System.exit(0); // Thanks for visiting!</code>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2500&color=58a6ff&center=true&vCenter=true&width=400&lines=System.exit(0);;Process+finished+with+exit+code+0;%2F%2F+Thanks+for+dropping+by!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2500&color=0969da&center=true&vCenter=true&width=400&lines=System.exit(0);;Process+finished+with+exit+code+0;%2F%2F+Thanks+for+dropping+by!">
+    <img alt="Footer Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2500&color=58a6ff&center=true&vCenter=true&width=400&lines=System.exit(0);;Process+finished+with+exit+code+0;%2F%2F+Thanks+for+dropping+by!" />
+  </picture>
 </div>
