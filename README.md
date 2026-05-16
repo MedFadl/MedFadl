@@ -37,14 +37,12 @@
 <br> 
 
 ### <div align="center">Let's Connect!</div>
-
 <div align="center">
-  <a href="https://linkedin.com/in/MohamedMedhatFadl" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/MohamedMedhatFadl" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/m.mfadl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/MohamedMedhatFadl" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/MohamedMedhatFadl" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" height="40" alt="Facebook"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/m.mfadl/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
 </div>
 
-<br>
 
 ### <div align="center">Tech Stack</div>
 
