@@ -69,19 +69,21 @@
 
 <br>
 
-<div align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-light.svg">
-    <img height="195" src="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-dark.svg" alt="GitHub Stats" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-dark.svg"
+    />
   </picture>
-   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/languages-output/languages-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/languages-output/languages-light.svg">
-    <img height="195" src="https://raw.githubusercontent.com/MedFadl/MedFadl/languages-output/languages-dark.svg" alt="Top Languages" />
-  </picture>
-</div>
+</p>
 
 <br>
 
