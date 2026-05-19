@@ -67,8 +67,6 @@
   </picture>
 </p>
 
-<br>
-
 <p align="center">
   <picture>
     <source
@@ -85,7 +83,6 @@
   </picture>
 </p>
 
-<br>
 
 <p align="center">
   <picture>
