@@ -59,30 +59,6 @@
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/trophies-output/trophies-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/trophies-output/trophies-light.svg">
-    <img src="https://raw.githubusercontent.com/MedFadl/MedFadl/trophies-output/trophies-dark.svg" alt="GitHub Trophies" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-light.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/MedFadl/MedFadl/stats-output/stats-dark.svg"
-    />
-  </picture>
-</p>
-
 
 <p align="center">
   <picture>
